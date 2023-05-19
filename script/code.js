@@ -32,3 +32,4 @@ let gender = ['women','man','other'];
 let genders = gender[0];
 console.log(gender);
 console.log(objArr);
+console.log(objArr);
